@@ -42,17 +42,18 @@ v1.0 keypoints.exe 请在release中下载。
 
 先目标框再关键点： https://github.com/Jeff-sjtu/labelKeypoint 
 
-**吐槽一下：**
-
-tkinter网上介绍真的不多，摸索了好长时间。
-
-tkinter相比pyqt更简单，但是界面布局真的一言难尽。
-
-此软件使用grid方式构建，界面上要比QT不那么灵活。
-
 **例子**
 
 基于这个标注软件的结果，写了一个关键点识别的demo：
 
  https://github.com/pprp/SimpleCVReproduction/tree/master/simple_keypoint 
 
+需要说明的是，这是个非常简单的demo, 每张图只有一个关键点，所以只需要回归出一个坐标即可。
+
+**吐槽**
+
+tkinter网上介绍真的不多，摸索了好长时间。
+
+tkinter相比pyqt更简单，但是界面布局真的一言难尽。
+
+此软件使用grid方式构建，界面上要比QT不那么灵活。
