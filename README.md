@@ -13,7 +13,7 @@
 
 ![](./output.gif)
 
-视频教程：bilibili
+视频教程： https://www.bilibili.com/video/BV145411t7Vp 
 
 快捷键：
 
