@@ -5,13 +5,13 @@
 
 重新构建了界面，更加人性化
 
-![1586482369201](README.assets/1586482369201.png)
+![](./README.assets/1586482369201.png)
 
 
 
 **使用说明**
 
-![](./output.gif)
+![](./README.assets/output.gif)
 
 视频教程： https://www.bilibili.com/video/BV145411t7Vp 
 
